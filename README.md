@@ -203,3 +203,6 @@ This repository serves as the official landing page for STAR WARS Jedi Knight: D
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of STAR WARS Jedi Knight: Dark Forces II today!**
+
+---
+**Last updated:** 2026-11-09 15:06:23 UTC
