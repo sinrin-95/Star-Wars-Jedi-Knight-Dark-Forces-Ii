@@ -205,4 +205,4 @@ This repository serves as the official landing page for STAR WARS Jedi Knight: D
 **Get the most recent version of STAR WARS Jedi Knight: Dark Forces II today!**
 
 ---
-**Last updated:** 2026-11-11 23:16:35 UTC
+**Last updated:** 2026-11-12 05:40:26 UTC
